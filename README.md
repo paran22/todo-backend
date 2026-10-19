@@ -1,6 +1,6 @@
 # 할 일 목록 CRUD (FastAPI 백엔드)
 
-4회차에서 만드는 Todo CRUD API입니다. [todo-frontend](https://github.com/paran22/todo-frontend) 프론트엔드와 짝을 이루도록 만들어졌습니다.
+Todo CRUD API입니다. [todo-frontend](https://github.com/paran22/todo-frontend) 프론트엔드와 함께 사용합니다.
 
 ## 실행 방법
 
